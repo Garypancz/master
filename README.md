@@ -1,3 +1,3 @@
 # master
 
-1,This a git learn file.
+1,This is a git learn file.

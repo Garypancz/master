@@ -12,3 +12,4 @@ void function_one(void)
 {
 	return 1;
 }
+

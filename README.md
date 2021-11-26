@@ -1,6 +1,6 @@
 # master
 
-1,This is a git learn file.
-2,git reinstall test
-3,add commit
-4,push test
+1,This is a git learn file.\n
+2,git reinstall test\n
+3,add commit\n
+4,push test\n

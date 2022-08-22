@@ -18,3 +18,7 @@ void function_two(void)
 	return 0;
 }
 
+void function_three(void)
+{
+	return 0;
+}

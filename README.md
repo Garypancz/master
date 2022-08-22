@@ -8,3 +8,4 @@
 6,local dev1 test
 7.modify by master
 8.modify by branch
+9.stash test 
